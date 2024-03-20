@@ -3,9 +3,9 @@
 My Name is Sherin Olivia,
 
 😊 I’m an Aspiring Software Engineer <br>
-🌱 I’m currently attending a Software Engineer Bootcamp at RevoU and related online courses through FreeCodeCamp and Udemy<br>
+🌱 I’m currently attending a Software Engineer Bootcamp at RevoU and related online courses through Odin Project, FreeCodeCamp and Udemy<br>
 📚 I’m also currently learning Chinese! 你好！！<br>
-💬 Ask me about Games! Some of my favorites include [The Witcher 3](https://www.thewitcher.com/us/en/witcher3#home) and [Watch_Dogs 2](https://www.ubisoft.com/en-sg/game/watch-dogs/watch-dogs-2). I'm also open to chatting about life...<br>
+💬 Ask me about Games! Some of my favourites include [The Witcher 3](https://www.thewitcher.com/us/en/witcher3#home) and [Watch_Dogs 2](https://www.ubisoft.com/en-sg/game/watch-dogs/watch-dogs-2). I'm also open to chatting about life...<br>
 🎶 Fun fact: I listen to music almost 24/7, 40% Jazz 40% R&B 20% etc~<br>
 
 ### Technologies Used
